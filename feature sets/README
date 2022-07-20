@@ -1,0 +1,1 @@
+The featuers of 'thermal' are collected from the CPU sensors' temperature value in '/sys/class/thermal'. Because of the absense of some of these values, we don't show any of these feature names. 
